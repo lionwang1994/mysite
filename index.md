@@ -6,7 +6,7 @@ layout: default
 
 # Ryan
 
-Student
+Student^^
 
 - - -
 
